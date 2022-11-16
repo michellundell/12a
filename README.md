@@ -230,7 +230,9 @@ Test it by making a branch of your code and create a pull-request and see what h
 Simulate some errors, commit ... see what happens ...
 Correct the errors, commit ... see what happens .
 
-If you got time before lunch, try completing your C++ assignment, if you haven't yet... add an action to compile it!
+If you got time before lunch, try completing your C++ assignment.
+
+If you haven't yet... add an action to compile it!
 
 
 ## 3.  Repetition

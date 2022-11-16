@@ -9,3 +9,6 @@ check: run
 
 distcheck: run
 	echo "distcheck ok"
+
+doc:
+	echo "doxygen on all files ,-)"
