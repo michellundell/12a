@@ -224,6 +224,15 @@ the program can be compiled.
 
 ## 2. Assigment Setup a repository with github actions
 
+Create your own repository and make the steps of setting up an action that compiles your project.
+
+Test it by making a branch of your code and create a pull-request and see what happens.
+Simulate some errors, commit ... see what happens ...
+Correct the errors, commit ... see what happens .
+
+If you got time before lunch, try completing your C++ assignment, if you haven't yet... add an action to compile it!
+
+
 ## 3.  Repetition
 I will explain further anything you are unsure about in the previous lessons again.
 Think about it and we do repetition of the topics you are unsure about.
